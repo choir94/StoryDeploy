@@ -121,4 +121,6 @@ npx hardhat compile
 
 print_command "Deploying smart contracts..."
 npx hardhat run scripts/deploy.js --network StoryTestnet
+echo -e "${YELLOW}Join Channel on Telegram : t.me/airdrop_node${NC}"
+echo
 
