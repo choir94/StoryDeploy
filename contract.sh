@@ -122,4 +122,3 @@ npx hardhat compile
 print_command "Deploying smart contracts..."
 npx hardhat run scripts/deploy.js --network StoryTestnet
 
-#Join diskusi channel t.me/airdrop_node
