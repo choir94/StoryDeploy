@@ -8,7 +8,7 @@
 - Claim Faucet: [Faucet Link](https://faucet.story.foundation/)
 - Masukkan Command ini untuk start deployment
 ```bash
-wget https://raw.githubusercontent.com/dxzenith/Story-Testnet/main/contract.sh && chmod +x contract.sh && ./contract.sh
+wget https://raw.githubusercontent.com/choir94/StoryDeploy/main/contract.sh && chmod +x contract.sh && ./contract.sh
 ```
 - Di tengah proses instalasi Klik enter kurang lebih 4 kali kemudian Masukkan Privat key, Tunggu sampai selesai
 
