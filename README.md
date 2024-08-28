@@ -12,5 +12,4 @@ wget https://raw.githubusercontent.com/choir94/StoryDeploy/main/contract.sh && c
 ```
 - Di tengah proses instalasi Klik enter kurang lebih 4 kali kemudian Masukkan Privat key, Tunggu sampai selesai
 
-![Screenshot 2024-08-28 031910](https://github.com/user-attachments/assets/54f9da7e-d52d-4758-830d-8747cb8f4389)
 - Cek txhash [explorer](https://testnet.storyscan.xyz/)
